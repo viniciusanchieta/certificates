@@ -5,4 +5,4 @@
 -  [pentestwebhackingcertificate.pdf](https://github.com/viniciusanchieta/certificates/blob/master/pentestwebhackingcertificate.pdf) - Achieved on July 12, 2020 (Duration: 3,5 hours)
 -  [gowinnerscertificate.pdf](https://github.com/viniciusanchieta/certificates/blob/master/gowinnerscertificate.pdf) - Achieved on March 23, 2020 (Duration: 68 hours)
 -  [innovationmanagementcertificate.pdf](https://github.com/viniciusanchieta/certificates/blob/master/innovationmanagementcertificate.pdf) - Achieved on June 6, 2020 (Duration: 2 hours)
--  [devpiracertificate.pdf](https://github.com/viniciusanchieta/certificates/blob/master/devpiracertificate.pdf) - Achieved on December 7, 2019 (Duration: 8 hours)
+-  [devpiracertificate.pdf](https://github.com/viniciusanchieta/certificates/blob/master/devpiracertificate.pdf) - Achieved on December 7, 2019 (Duration: 8 hours) <span style="color:blue">`Event`</span>.
